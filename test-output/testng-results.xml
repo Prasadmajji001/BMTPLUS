@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-02T10:53:40 IST" name="Default suite" finished-at="2022-06-02T10:54:14 IST" duration-ms="34215">
+    <groups>
+    </groups>
+    <test started-at="2022-06-02T10:53:40 IST" name="Default test" finished-at="2022-06-02T10:54:14 IST" duration-ms="34215">
+      <class name="PatientManagement.User_login_Patient_creation">
+        <test-method signature="login_patient(java.lang.String,java.lang.String)[pri:0, instance:PatientManagement.User_login_Patient_creation@3ee37e5a]" started-at="2022-06-02T10:53:40 IST" name="login_patient" data-provider="getData" finished-at="2022-06-02T10:54:14 IST" duration-ms="34146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Durgaprasad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[durgaprasad123#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_patient -->
+      </class> <!-- PatientManagement.User_login_Patient_creation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
